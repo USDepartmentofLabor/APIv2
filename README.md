@@ -20,7 +20,7 @@ Please know that until we can test this in a distributed server environment, thi
 The configuration file is rest.php
 
 ### Licenses
-With the following exceptions, all of the code in this repository is public domain software.
+With the following exceptions, all of the code in this repository is **public domain software**.
 
 #### Back-end (master branch)
 * Format.php & REST_Controller.php - [DBAD License](http://philsturgeon.co.uk/code/dbad-license)
